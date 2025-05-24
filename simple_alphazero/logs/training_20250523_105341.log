@@ -1,0 +1,226 @@
+2025-05-23 10:53:41,021 - INFO - Logger initialized. Logs will be saved to logs\training_20250523_105341.log
+2025-05-23 10:53:41,022 - INFO - Starting training process
+2025-05-23 10:53:41,022 - INFO - Using device: cuda
+2025-05-23 10:53:41,022 - INFO - CUDNN benchmark enabled for RTX 4070 optimization
+2025-05-23 10:53:41,022 - INFO - CUDA graphs enabled for repeated operations
+2025-05-23 10:53:41,022 - INFO - CUDA graph batch size: 256
+2025-05-23 10:53:41,022 - INFO - CUDA graph warmup iterations: 3
+2025-05-23 10:53:41,023 - INFO - Creating new model
+2025-05-23 10:53:41,738 - INFO - Starting iteration 1
+2025-05-23 10:53:41,740 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,740 - INFO - Starting iteration 2
+2025-05-23 10:53:41,740 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,741 - INFO - Starting iteration 3
+2025-05-23 10:53:41,741 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,741 - INFO - Starting iteration 4
+2025-05-23 10:53:41,741 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,741 - INFO - Starting iteration 5
+2025-05-23 10:53:41,741 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,742 - INFO - Starting iteration 6
+2025-05-23 10:53:41,742 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,742 - INFO - Starting iteration 7
+2025-05-23 10:53:41,742 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,742 - INFO - Starting iteration 8
+2025-05-23 10:53:41,742 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,743 - INFO - Starting iteration 9
+2025-05-23 10:53:41,743 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,743 - INFO - Starting iteration 10
+2025-05-23 10:53:41,743 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,743 - INFO - Starting iteration 11
+2025-05-23 10:53:41,743 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,743 - INFO - Starting iteration 12
+2025-05-23 10:53:41,743 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,744 - INFO - Starting iteration 13
+2025-05-23 10:53:41,744 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,744 - INFO - Starting iteration 14
+2025-05-23 10:53:41,744 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,744 - INFO - Starting iteration 15
+2025-05-23 10:53:41,744 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,744 - INFO - Starting iteration 16
+2025-05-23 10:53:41,744 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,745 - INFO - Starting iteration 17
+2025-05-23 10:53:41,745 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,745 - INFO - Starting iteration 18
+2025-05-23 10:53:41,745 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,745 - INFO - Starting iteration 19
+2025-05-23 10:53:41,745 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,745 - INFO - Starting iteration 20
+2025-05-23 10:53:41,746 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,746 - INFO - Starting iteration 21
+2025-05-23 10:53:41,746 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,746 - INFO - Starting iteration 22
+2025-05-23 10:53:41,746 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,746 - INFO - Starting iteration 23
+2025-05-23 10:53:41,746 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,746 - INFO - Starting iteration 24
+2025-05-23 10:53:41,747 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,747 - INFO - Starting iteration 25
+2025-05-23 10:53:41,747 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,747 - INFO - Starting iteration 26
+2025-05-23 10:53:41,747 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,747 - INFO - Starting iteration 27
+2025-05-23 10:53:41,747 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,747 - INFO - Starting iteration 28
+2025-05-23 10:53:41,748 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,748 - INFO - Starting iteration 29
+2025-05-23 10:53:41,748 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,748 - INFO - Starting iteration 30
+2025-05-23 10:53:41,748 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,748 - INFO - Starting iteration 31
+2025-05-23 10:53:41,748 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,748 - INFO - Starting iteration 32
+2025-05-23 10:53:41,749 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,749 - INFO - Starting iteration 33
+2025-05-23 10:53:41,749 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,749 - INFO - Starting iteration 34
+2025-05-23 10:53:41,749 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,749 - INFO - Starting iteration 35
+2025-05-23 10:53:41,749 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,749 - INFO - Starting iteration 36
+2025-05-23 10:53:41,749 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,750 - INFO - Starting iteration 37
+2025-05-23 10:53:41,750 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,750 - INFO - Starting iteration 38
+2025-05-23 10:53:41,750 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,750 - INFO - Starting iteration 39
+2025-05-23 10:53:41,750 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,750 - INFO - Starting iteration 40
+2025-05-23 10:53:41,750 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,750 - INFO - Starting iteration 41
+2025-05-23 10:53:41,751 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,751 - INFO - Starting iteration 42
+2025-05-23 10:53:41,751 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,751 - INFO - Starting iteration 43
+2025-05-23 10:53:41,751 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,751 - INFO - Starting iteration 44
+2025-05-23 10:53:41,751 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,751 - INFO - Starting iteration 45
+2025-05-23 10:53:41,752 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,752 - INFO - Starting iteration 46
+2025-05-23 10:53:41,752 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,752 - INFO - Starting iteration 47
+2025-05-23 10:53:41,752 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,752 - INFO - Starting iteration 48
+2025-05-23 10:53:41,752 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,752 - INFO - Starting iteration 49
+2025-05-23 10:53:41,753 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,753 - INFO - Starting iteration 50
+2025-05-23 10:53:41,753 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,753 - INFO - Starting iteration 51
+2025-05-23 10:53:41,753 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,753 - INFO - Starting iteration 52
+2025-05-23 10:53:41,753 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,753 - INFO - Starting iteration 53
+2025-05-23 10:53:41,753 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,754 - INFO - Starting iteration 54
+2025-05-23 10:53:41,754 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,754 - INFO - Starting iteration 55
+2025-05-23 10:53:41,754 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,754 - INFO - Starting iteration 56
+2025-05-23 10:53:41,754 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,754 - INFO - Starting iteration 57
+2025-05-23 10:53:41,754 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,754 - INFO - Starting iteration 58
+2025-05-23 10:53:41,755 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,755 - INFO - Starting iteration 59
+2025-05-23 10:53:41,755 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,755 - INFO - Starting iteration 60
+2025-05-23 10:53:41,755 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,755 - INFO - Starting iteration 61
+2025-05-23 10:53:41,755 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,755 - INFO - Starting iteration 62
+2025-05-23 10:53:41,755 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,756 - INFO - Starting iteration 63
+2025-05-23 10:53:41,756 - INFO - Using 100 MCTS simulations
+2025-05-23 10:53:41,756 - INFO - Starting iteration 64
+2025-05-23 10:53:41,756 - INFO - Using 102 MCTS simulations
+2025-05-23 10:53:41,756 - INFO - Starting iteration 65
+2025-05-23 10:53:41,756 - INFO - Using 104 MCTS simulations
+2025-05-23 10:53:41,756 - INFO - Starting iteration 66
+2025-05-23 10:53:41,756 - INFO - Using 105 MCTS simulations
+2025-05-23 10:53:41,757 - INFO - Starting iteration 67
+2025-05-23 10:53:41,757 - INFO - Using 107 MCTS simulations
+2025-05-23 10:53:41,757 - INFO - Starting iteration 68
+2025-05-23 10:53:41,757 - INFO - Using 108 MCTS simulations
+2025-05-23 10:53:41,757 - INFO - Starting iteration 69
+2025-05-23 10:53:41,757 - INFO - Using 110 MCTS simulations
+2025-05-23 10:53:41,757 - INFO - Starting iteration 70
+2025-05-23 10:53:41,757 - INFO - Using 112 MCTS simulations
+2025-05-23 10:53:41,757 - INFO - Starting iteration 71
+2025-05-23 10:53:41,758 - INFO - Using 113 MCTS simulations
+2025-05-23 10:53:41,758 - INFO - Starting iteration 72
+2025-05-23 10:53:41,758 - INFO - Using 115 MCTS simulations
+2025-05-23 10:53:41,758 - INFO - Starting iteration 73
+2025-05-23 10:53:41,758 - INFO - Using 116 MCTS simulations
+2025-05-23 10:53:41,758 - INFO - Starting iteration 74
+2025-05-23 10:53:41,758 - INFO - Using 118 MCTS simulations
+2025-05-23 10:53:41,758 - INFO - Starting iteration 75
+2025-05-23 10:53:41,759 - INFO - Using 120 MCTS simulations
+2025-05-23 10:53:41,759 - INFO - Starting iteration 76
+2025-05-23 10:53:41,759 - INFO - Using 121 MCTS simulations
+2025-05-23 10:53:41,759 - INFO - Starting iteration 77
+2025-05-23 10:53:41,759 - INFO - Using 123 MCTS simulations
+2025-05-23 10:53:41,759 - INFO - Starting iteration 78
+2025-05-23 10:53:41,759 - INFO - Using 124 MCTS simulations
+2025-05-23 10:53:41,759 - INFO - Starting iteration 79
+2025-05-23 10:53:41,759 - INFO - Using 126 MCTS simulations
+2025-05-23 10:53:41,760 - INFO - Starting iteration 80
+2025-05-23 10:53:41,760 - INFO - Using 128 MCTS simulations
+2025-05-23 10:53:41,760 - INFO - Starting iteration 81
+2025-05-23 10:53:41,760 - INFO - Using 129 MCTS simulations
+2025-05-23 10:53:41,760 - INFO - Starting iteration 82
+2025-05-23 10:53:41,760 - INFO - Using 131 MCTS simulations
+2025-05-23 10:53:41,760 - INFO - Starting iteration 83
+2025-05-23 10:53:41,760 - INFO - Using 132 MCTS simulations
+2025-05-23 10:53:41,760 - INFO - Starting iteration 84
+2025-05-23 10:53:41,761 - INFO - Using 134 MCTS simulations
+2025-05-23 10:53:41,761 - INFO - Starting iteration 85
+2025-05-23 10:53:41,761 - INFO - Using 136 MCTS simulations
+2025-05-23 10:53:41,761 - INFO - Starting iteration 86
+2025-05-23 10:53:41,761 - INFO - Using 137 MCTS simulations
+2025-05-23 10:53:41,761 - INFO - Starting iteration 87
+2025-05-23 10:53:41,761 - INFO - Using 139 MCTS simulations
+2025-05-23 10:53:41,761 - INFO - Starting iteration 88
+2025-05-23 10:53:41,762 - INFO - Using 140 MCTS simulations
+2025-05-23 10:53:41,762 - INFO - Starting iteration 89
+2025-05-23 10:53:41,762 - INFO - Using 142 MCTS simulations
+2025-05-23 10:53:41,762 - INFO - Starting iteration 90
+2025-05-23 10:53:41,762 - INFO - Using 144 MCTS simulations
+2025-05-23 10:53:41,762 - INFO - Starting iteration 91
+2025-05-23 10:53:41,762 - INFO - Using 145 MCTS simulations
+2025-05-23 10:53:41,762 - INFO - Starting iteration 92
+2025-05-23 10:53:41,762 - INFO - Using 147 MCTS simulations
+2025-05-23 10:53:41,763 - INFO - Starting iteration 93
+2025-05-23 10:53:41,763 - INFO - Using 148 MCTS simulations
+2025-05-23 10:53:41,763 - INFO - Starting iteration 94
+2025-05-23 10:53:41,763 - INFO - Using 150 MCTS simulations
+2025-05-23 10:53:41,763 - INFO - Starting iteration 95
+2025-05-23 10:53:41,763 - INFO - Using 152 MCTS simulations
+2025-05-23 10:53:41,763 - INFO - Starting iteration 96
+2025-05-23 10:53:41,763 - INFO - Using 153 MCTS simulations
+2025-05-23 10:53:41,763 - INFO - Starting iteration 97
+2025-05-23 10:53:41,764 - INFO - Using 155 MCTS simulations
+2025-05-23 10:53:41,764 - INFO - Starting iteration 98
+2025-05-23 10:53:41,764 - INFO - Using 156 MCTS simulations
+2025-05-23 10:53:41,764 - INFO - Starting iteration 99
+2025-05-23 10:53:41,764 - INFO - Using 158 MCTS simulations
+2025-05-23 10:53:41,764 - INFO - Starting iteration 100
+2025-05-23 10:53:41,764 - INFO - Using 160 MCTS simulations
+2025-05-23 10:53:41,764 - INFO - Starting iteration 1
+2025-05-23 10:53:52,337 - INFO - Game 0: Draw in 8 moves
+2025-05-23 10:54:05,845 - INFO - Game 1: Draw in 8 moves
+2025-05-23 10:54:19,499 - INFO - Game 2: Draw in 8 moves
+2025-05-23 10:54:33,339 - INFO - Game 3: Draw in 8 moves
+2025-05-23 10:54:47,147 - INFO - Game 4: Draw in 8 moves
+2025-05-23 10:55:01,518 - INFO - Game 5: Draw in 8 moves
+2025-05-23 10:55:15,391 - INFO - Game 6: Draw in 8 moves
+2025-05-23 10:55:29,667 - INFO - Game 7: Draw in 8 moves
+2025-05-23 10:55:43,480 - INFO - Game 8: Draw in 8 moves
+2025-05-23 10:55:57,154 - INFO - Game 9: Draw in 8 moves
+2025-05-23 10:56:10,807 - INFO - Game 10: Draw in 8 moves
+2025-05-23 10:56:24,372 - INFO - Game 11: Draw in 8 moves
+2025-05-23 10:56:38,014 - INFO - Game 12: Draw in 8 moves
+2025-05-23 10:56:51,571 - INFO - Game 13: Draw in 8 moves
+2025-05-23 10:57:06,005 - INFO - Game 14: Draw in 8 moves
+2025-05-23 10:57:20,674 - INFO - Game 15: Draw in 8 moves
+2025-05-23 10:57:34,334 - INFO - Game 16: Draw in 8 moves

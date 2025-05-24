@@ -1,0 +1,9 @@
+2025-05-23 10:32:50,608 - INFO - Logger initialized. Logs will be saved to logs\training_20250523_103250.log
+2025-05-23 10:32:50,609 - INFO - Starting training process
+2025-05-23 10:32:50,609 - INFO - Using device: cuda
+2025-05-23 10:32:50,609 - INFO - CUDNN benchmark enabled for RTX 4070 optimization
+2025-05-23 10:32:50,609 - INFO - torch.compile enabled with mode: reduce-overhead
+2025-05-23 10:32:50,609 - INFO - CUDA graphs enabled for repeated operations
+2025-05-23 10:32:50,610 - INFO - CUDA graph batch size: 256
+2025-05-23 10:32:50,610 - INFO - CUDA graph warmup iterations: 3
+2025-05-23 10:32:50,610 - INFO - Creating new model

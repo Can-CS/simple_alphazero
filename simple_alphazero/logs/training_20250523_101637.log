@@ -1,0 +1,13 @@
+2025-05-23 10:16:37,037 - INFO - Logger initialized. Logs will be saved to logs\training_20250523_101637.log
+2025-05-23 10:16:37,037 - INFO - Starting training process
+2025-05-23 10:16:37,037 - INFO - Using device: cuda
+2025-05-23 10:16:37,037 - INFO - CUDNN benchmark enabled for RTX 4070 optimization
+2025-05-23 10:16:37,037 - INFO - CUDA graphs enabled for repeated operations
+2025-05-23 10:16:37,038 - INFO - CUDA graph batch size: 256
+2025-05-23 10:16:37,038 - INFO - CUDA graph warmup iterations: 3
+2025-05-23 10:16:37,038 - INFO - Creating new model
+2025-05-23 10:16:37,719 - INFO - Starting iteration 1
+2025-05-23 10:19:52,838 - INFO - Game 0: Draw in 21 moves
+2025-05-23 10:23:17,632 - INFO - Game 1: Draw in 21 moves
+2025-05-23 10:26:36,456 - INFO - Game 2: Draw in 21 moves
+2025-05-23 10:29:55,459 - INFO - Game 3: Draw in 21 moves
